@@ -6,7 +6,7 @@
         }
 header {
             background-color: hwb(246 1% 71%);
-            color: white;
+            color: rgb(131, 86, 221);
             padding: 15px 0;
             text-align: center;
         }
@@ -16,7 +16,7 @@ header {
             text-align: center;
         }
         nav a {
-            color: white;
+            color: rgb(131, 86, 221);
             margin: 0 15px;
             text-decoration: none;
         }
@@ -25,25 +25,13 @@ header {
         }
         main {
             padding: 20px;
-            background-color: rgb(111, 58, 255);
-            max-width: 900px;
+            background-color: rgb(70, 14, 221);
+            max-width: 1210px;
             margin: auto;
         }
         img {
             max-width: 100%;
             height: auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 15px;
-        }
-        table, th, td {
-            border: 1px solid #0c0303;
-        }
-        th, td {
-            padding: 8px;
-            text-align: center;
         }
         footer {
             background-color: #333;
